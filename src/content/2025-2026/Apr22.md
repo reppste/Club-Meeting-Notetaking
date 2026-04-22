@@ -1,18 +1,12 @@
 # Meeting Notes
 
 ## Outline
-
-### Social Media Updates
-
-
+Go Over courses with notes for upcoming meeting
 
 ## Notes
-```
 Going over courses with notes on them for upcoming meeting
-```
 
 ## Minutes
-```
 Luis start meeting
 We go over curriculum to see what can be moved around/removed/added as classes Notes as follows:
 	Switch Intro to AI with DB Concepts, remove vibe-coding focus. Incorporate with java/COBOL?
@@ -27,7 +21,5 @@ We go over curriculum to see what can be moved around/removed/added as classes N
 Talk about events we could do for more club events.
 Meeting ends abruptly
 
-```
-
 ## Attendance
-Conrad Parker, Will Collins, Dominike Deevers, Ethan Umphress, Katra Sterner, Laillah Zainath
+Conrad Parker, Will Collins, Dominike Deevers, Ethan Umphress, Katra Sterner, Laillah Zainath, Lincoln Gilbert, Draven Livingston
